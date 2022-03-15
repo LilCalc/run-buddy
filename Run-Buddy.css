@@ -35,4 +35,7 @@ header {
        font-weight: lighter;
        font-size: 22px;
    }
+   body ul li {
+       font-weight: bold;
+   }
 
