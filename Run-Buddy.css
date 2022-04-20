@@ -62,7 +62,7 @@ header {
          padding: 60px;
   }
     .hero {
-      background-image: url("images/hero-bg.jpg");
+      background-image: url("./Images/01-05-trainers/hero-bg.jpg");
       height: 600px;
       background-size: cover;
       background-position: center;
